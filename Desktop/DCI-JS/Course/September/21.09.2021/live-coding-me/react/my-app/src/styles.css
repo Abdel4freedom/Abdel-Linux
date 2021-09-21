@@ -1,0 +1,33 @@
+.container {
+    border: 1px solid brown;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgreen;
+
+}
+
+.btn {
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 80px;
+    margin-left: 40px;
+    background-color: skyblue;
+    font-size: xx-large;
+}
+
+.counterDiv {
+    font-size: xx-large;
+    border-radius: 10px;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 100px;
+    margin-bottom: 20px;
+    border: 5px solid black;
+}
